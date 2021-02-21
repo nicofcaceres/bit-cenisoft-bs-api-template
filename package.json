@@ -12,7 +12,7 @@
     "API",
     "Bookstore"
   ],
-  "author": "Jeisson Francois Rosas Céspedes <jeisson.rosas@bit.institute>",
+  "author": "Nicolas Caceres Taller 2",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
